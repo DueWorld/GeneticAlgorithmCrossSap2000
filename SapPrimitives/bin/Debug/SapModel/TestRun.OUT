@@ -1,0 +1,76 @@
+ SAP2000 v20.2.0 Ultimate 32-bit (Analysis Build 9663/32)                       
+ File: SapModel\TestRun.OUT                                                     
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+     677               -   -   -   A   A   A
+     678 TO     680    A   A   A   A   A   A
+     681 TO     682    -   -   -   A   A   A
+     683 TO     684    A   A   A   A   A   A
+     685               -   -   -   A   A   A
+     686               A   A   A   A   A   A
+     687               -   -   -   A   A   A
+     688 TO     689    A   A   A   A   A   A
+     690               -   -   -   A   A   A
+     691               A   A   A   A   A   A
+     692               -   -   -   A   A   A
+     693 TO     694    A   A   A   A   A   A
+     695               -   -   -   A   A   A
+     696               A   A   A   A   A   A
+     697               -   -   -   A   A   A
+     698 TO     699    A   A   A   A   A   A
+     700               -   -   -   A   A   A
+     701               A   A   A   A   A   A
+     702               -   -   -   A   A   A
+     703 TO     704    A   A   A   A   A   A
+     705               -   -   -   A   A   A
+     706               A   A   A   A   A   A
+     707               -   -   -   A   A   A
+     708 TO     709    A   A   A   A   A   A
+     710               -   -   -   A   A   A
+     711               A   A   A   A   A   A
+     712               -   -   -   A   A   A
+     713 TO     714    A   A   A   A   A   A
+     715               -   -   -   A   A   A
+     716               A   A   A   A   A   A
+     717               -   -   -   A   A   A
+     718 TO     719    A   A   A   A   A   A
+     720               -   -   -   A   A   A
+     721               A   A   A   A   A   A
+     722               -   -   -   A   A   A
+     723 TO     724    A   A   A   A   A   A
+     725               -   -   -   A   A   A
+     726               A   A   A   A   A   A
+     727               -   -   -   A   A   A
+     728 TO     729    A   A   A   A   A   A
+     730               -   -   -   A   A   A
+     731               A   A   A   A   A   A
+     732               -   -   -   A   A   A
+     733 TO     734    A   A   A   A   A   A
+     735               -   -   -   A   A   A
+     736               A   A   A   A   A   A
+     737               -   -   -   A   A   A
+     738 TO     739    A   A   A   A   A   A
+     740               -   -   -   A   A   A
+     741               A   A   A   A   A   A
+     742               -   -   -   A   A   A
+     743 TO     744    A   A   A   A   A   A
+     745               -   -   -   A   A   A
+     746               A   A   A   A   A   A
+     747               -   -   -   A   A   A
+     748 TO     749    A   A   A   A   A   A
+     750               -   -   -   A   A   A
+     751               A   A   A   A   A   A
+     752               -   -   -   A   A   A
+     753 TO     754    A   A   A   A   A   A
+     755               -   -   -   A   A   A
+     756 TO     ~64    A   A   A   A   A   A
